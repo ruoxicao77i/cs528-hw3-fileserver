@@ -1,0 +1,9 @@
+# instructions for this assignment
+instructions/
+client/
+keys/
+.myenv/
+
+__pycache__
+# keys
+*.json
